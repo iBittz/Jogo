@@ -33,7 +33,11 @@ namespace Jogo.src.Entities
 
         public override string ToString()
         {
-            return $"{this.name} - {this.level} - {this.heroType} - {this.HP}";
+            return $@"
+            Nome: {this.name}
+            Level: {this.level}
+            Classe: {this.heroType}
+            HP: {this.HP}";
         }
 
         public void LevelUp()
