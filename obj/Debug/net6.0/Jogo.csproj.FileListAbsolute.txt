@@ -1,0 +1,15 @@
+C:\NET\Jogo\bin\Debug\net6.0\Jogo.exe
+C:\NET\Jogo\bin\Debug\net6.0\Jogo.deps.json
+C:\NET\Jogo\bin\Debug\net6.0\Jogo.runtimeconfig.json
+C:\NET\Jogo\bin\Debug\net6.0\Jogo.dll
+C:\NET\Jogo\bin\Debug\net6.0\ref\Jogo.dll
+C:\NET\Jogo\bin\Debug\net6.0\Jogo.pdb
+C:\NET\Jogo\obj\Debug\net6.0\Jogo.csproj.AssemblyReference.cache
+C:\NET\Jogo\obj\Debug\net6.0\Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Jogo\obj\Debug\net6.0\Jogo.AssemblyInfoInputs.cache
+C:\NET\Jogo\obj\Debug\net6.0\Jogo.AssemblyInfo.cs
+C:\NET\Jogo\obj\Debug\net6.0\Jogo.csproj.CoreCompileInputs.cache
+C:\NET\Jogo\obj\Debug\net6.0\Jogo.dll
+C:\NET\Jogo\obj\Debug\net6.0\ref\Jogo.dll
+C:\NET\Jogo\obj\Debug\net6.0\Jogo.pdb
+C:\NET\Jogo\obj\Debug\net6.0\Jogo.genruntimeconfig.cache
